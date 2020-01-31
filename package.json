@@ -1,5 +1,5 @@
 {
-  "name": "inspireNuggetsSlackBot",
+  "name": "ZimboSlackBot",
   "version": "1.0.0",
   "description": "A simple Slackbot that displays random inspiring techie quotes and jokes for developers/designers.",
   "main": "index.js",
