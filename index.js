@@ -15,7 +15,7 @@ bot.on('start', () => {
     }
 
     bot.postMessageToChannel(
-        'random',
+        'c',
         'Get inspired while working with @inspirenuggets',
         params
     );
@@ -93,7 +93,7 @@ function runHelp() {
     }
 
     bot.postMessageToChannel(
-        'random',
+        'c',
         `Type *@inspirenuggets* with *inspire me* to get an inspiring techie quote, *random joke* to get a Chuck Norris random joke and *help* to get this instruction again`,
         params
     );
