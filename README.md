@@ -1,11 +1,11 @@
 <div align="center">
     
-# inspireNuggets SlackBot
+# Zimbo0397 SlackBot
 
-![inspireNuggets](https://github.com/BolajiAyodeji/inspireNuggets/raw/master/tab-icon.png)
+![Zimbo0397](https://github.com/BolajiAyodeji/inspireNuggets/raw/master/tab-icon.png)
 
 A simple Slackbot that displays random inspiring techie quotes and jokes for developers/designers :zap: <br>
-> This bot is powered by the original [inspireNuggets Chrome Browser Extension](https://github.com/BolajiAyodeji/inspireNuggets) quotes and [Chuck Norris Jokes API](https://api.chucknorris.io/)
+> This bot is powered by the original [inspireNuggets Chrome Browser Extension](https://github.com/Zimbo0397/) quotes and [Chuck Norris Jokes API](https://api.chucknorris.io/)
 
 <a href="https://slack.com/oauth/authorize?client_id=407013445267.723094934560&scope=bot"><img alt="Add to Slack" height="40" width="139" src="https://platform.slack-edge.com/img/add_to_slack.png" srcset="https://platform.slack-edge.com/img/add_to_slack.png 1x, https://platform.slack-edge.com/img/add_to_slack@2x.png 2x"></a>
 
@@ -44,7 +44,7 @@ const bot = new SlackBot({
 ```
 
 ## Author
-[Bolaji Ayodeji](https://github.com/BolajiAyodeji)
+[Zimbo0397](https://github.com/Zimbo0397)
 
 ## Licence
 [MIT](https://opensource.org/licenses/MIT)
